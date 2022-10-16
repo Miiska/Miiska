@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miiska
-- 👀 I’m interested in ... Engineering!
-- 🌱 I’m currently learning ... Engineering!
-- 💞️ I’m looking to collaborate on ... Engineering!
+- 👀 I’m interested in ... Validation Engineering!
+- 🌱 I’m currently learning ... Validation Engineering!
+- 💞️ I’m looking to collaborate on ... Validation Engineering!
 - 📫 How to reach me ... Here works. 
 
 <!---
